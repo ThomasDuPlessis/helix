@@ -21,6 +21,7 @@ pub mod register;
 pub mod search;
 pub mod selection;
 pub mod shellwords;
+pub mod snippet;
 mod state;
 pub mod surround;
 pub mod syntax;
